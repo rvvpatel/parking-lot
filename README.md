@@ -35,8 +35,6 @@ hour. <br />
 Inputs:
 ----------------------
 create_parking_lot 6 <br />
-
-create_parking_lot 6 <br />
 park KA-01-HH-1234 <br />
 park KA-01-HH-9999 <br />
 park KA-01-BB-0001 <br />
